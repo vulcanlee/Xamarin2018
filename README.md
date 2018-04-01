@@ -1,8 +1,9 @@
 # Xamarin.Forms 2018 Couse Sample
 
-# XFRemovePage
-Xamarin.Forms 的頁面導航之導航堆疊頁面移除，直接返回上上一頁
-
+|專案名稱|專案說明|
+|-|-|
+|XFRemovePage|Xamarin.Forms 的頁面導航之導航堆疊頁面移除，直接返回上上一頁|
+|||
 
 
 [![I ♥ Xamarin](https://4.bp.blogspot.com/-hS_XgJO3OGg/Wq0Gn0kPU2I/AAAAAAAANKs/G-SXFj-evrE8lGdcicWv7SC3-f6wyi4sgCEwYBhgL/s320/ILoveXamarin.png)](https://mylabtw.blogspot.com)
