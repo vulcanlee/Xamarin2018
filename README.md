@@ -76,6 +76,7 @@ Day3
 |XFListView2|集合資料CRUD 修改與更新|
 |XFListView3|集合資料CRUD 新增記錄|
 |XFListView4|集合資料CRUD 點選刪除|
+|XFMulSelLV|Xamarin.Forms ListView 集合資料多選|
 |XFSchedule|挑戰做出好看的頁面|
 |XFCustFont|進階應用 Font Awesome|
 |XFIconize|使用Iconize套件，顯示圖示圖片|
